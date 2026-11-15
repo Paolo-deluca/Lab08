@@ -112,4 +112,5 @@ class Model:
             lista_ordinata = [giorni_7[g] for g in range(1, 8)]
             dizionario_prezzi[id_dist] = lista_ordinata
 
+
         return dizionario_prezzi
